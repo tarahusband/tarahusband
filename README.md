@@ -1,16 +1,27 @@
-## Hi there 👋
+## Let's Goooooo 👋
 
-<!--
-**tarahusband/tarahusband** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CTO turned AI builder shipping weird internet projects, resale tech, automation systems, and software experiments that solve problems and make money.  Focused on everyone make money from Investor to end consumer.
 
-Here are some ideas to get you started:
+Currently building:
+- AI-assisted tools
+- Marketplace/resale workflows
+- Lightweight PaaS products
+- Fast-moving experiments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech stack:
+- JavaScript / TypeScript
+- React / Next.js
+- Node.js
+- GitHub
+- Supabase
+- PostgreSQL
+- Vercel
+- OpenAI APIs
+- REST APIs
+
+Interested in:
+- Lean engineering
+- Product strategy
+- AI workflows
+- Real-world software
+- Fast execution
